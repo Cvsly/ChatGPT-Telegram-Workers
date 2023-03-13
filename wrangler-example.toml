@@ -20,7 +20,7 @@ kv_namespaces = [
 # 所有变量必须为字符串，多个参数的值之间用逗号隔开
 
 # 基本配置
-API_KEY = "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"
+API_KEY = "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"
 TELEGRAM_AVAILABLE_TOKENS = "6233400961:AAEIC0tsOlzb0pe5UQyR2Xd5ZN9uRAeuTiw"
 CHAT_WHITE_LIST = "932742342"
 # I_AM_A_GENEROUS_PERSON = "false"
